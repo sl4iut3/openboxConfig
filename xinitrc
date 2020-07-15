@@ -1,3 +1,4 @@
+# save in .xinitrc, used by startx command
 
 urxvt &
 conky &
